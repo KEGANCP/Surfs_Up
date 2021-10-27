@@ -1,7 +1,7 @@
 # Surfs_Up - "Surf n Shake" Venture - Oahu, Hawaii
 -----
 ### Project Overview
-With plans to return Hawaii, in hopes to live there forever, I've finally conceptualize a busines plan to open a Surf & Ice Cream shop in Oahu, Hawaii. I plan to use my savings to invest, but will require the backing of other investers. I have reached out to a potential investor, W. Avy, who is willing to invest, but first requests weather data for Oahu to ensure this is an ideal location for this venture. 
+With plans to return to Hawaii, in hopes to live there forever, I've finally conceptualize a busines plan to open a Surf & Ice Cream shop in Oahu, Hawaii. I plan to use my savings to invest, but will require the backing of other investers. I have reached out to a potential investor, W. Avy, who is willing to invest, but first requests weather data for Oahu to ensure this is an ideal location for this venture. 
 
 <p align="center">
   <img src="https://github.com/KEGANCP/Surfs_Up/blob/main/resources/surfnshake.png" alt="Surf N shake"/>
@@ -24,7 +24,7 @@ At last, when presenting my findings to W. Avy, he has asked to compare weather 
 Reviewing the below 2 tables we can conclude the following:
 - The average overall temperature only varies by less than 4 degress.
 - Our low in December is 8 degress lower than June's lowest.
-- Our  max temperature between the two only vary by 2 degrees.
+- Our max temperature between the two only vary by 2 degrees.
 
 #### June Weather Data
 <p align="center">
@@ -37,4 +37,4 @@ Reviewing the below 2 tables we can conclude the following:
 </p>
 
 ### Project Summary
-This analysis provided a good outlook, and helped confirm Oahu as a prime candidate for the Surf n Shake venture. Considering the investment required to make this a reality and what is at stake, I would recommend further research before making a final decision.  I would recommend adding percipitation in a similar breakdown for June and December. I would also recommend adding additional stations in our data and research for a wider range of data. It would also be a good idea to compare several years of this data to ensure the trend holds true through-out.
+This analysis provided a good outlook, and helped confirm Oahu as a prime candidate for the Surf n Shake venture. However, considering the investment required to make this a reality, I would recommend further research before making a final decision.  I would recommend adding percipitation in a similar breakdown for June and December. I would also recommend adding additional stations in our data and research for a wider range of data. It would also be beneficial to compare several years of this data to ensure the trend holds true through-out.
