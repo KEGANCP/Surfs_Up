@@ -23,7 +23,12 @@ In efforts to allow data to appear immediately when presenting to my investors, 
 At last, when presenting my findings to W. Avy, he has asked to compare weather data between June and December. Utilizing Python and the prior data set, I was able to obtain the following 2 data tables.
 
 #### June Weather Data
-![This is an image](https://github.com/KEGANCP/Surfs_Up/blob/main/resources/june%20temps.png)
+<p align="center">
+  <img src="https://github.com/KEGANCP/Surfs_Up/blob/main/resources/june%20temps.png" alt="June"/>
+</p>
 
 #### December Weather Data
-![This is an image](https://github.com/KEGANCP/Surfs_Up/blob/main/resources/dec%20temps.png)
+<p align="center">
+  <img src="https://github.com/KEGANCP/Surfs_Up/blob/main/resources/dec%20temps.png" alt="Dec"/>
+</p>
+
