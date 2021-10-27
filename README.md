@@ -32,3 +32,5 @@ At last, when presenting my findings to W. Avy, he has asked to compare weather 
   <img src="https://github.com/KEGANCP/Surfs_Up/blob/main/resources/dec%20temps.png" alt="Dec"/>
 </p>
 
+### Project Summary
+
