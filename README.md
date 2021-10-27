@@ -21,6 +21,10 @@ In efforts to allow data to appear immediately when presenting to my investors, 
 </p>
 
 At last, when presenting my findings to W. Avy, he has asked to compare weather data between June and December. Utilizing Python and the prior data set, I was able to obtain the following 2 data tables.
+Reviewing the below 2 tables we can conclude the following:
+- The average overall temperature only varies by less than 4 degress.
+- Our low in December is 8 degress lower than June's lowest.
+- Our  max temperature between the two only vary by 2 degrees.
 
 #### June Weather Data
 <p align="center">
@@ -33,4 +37,4 @@ At last, when presenting my findings to W. Avy, he has asked to compare weather 
 </p>
 
 ### Project Summary
-
+This analysis provided a good outlook, and helped confirm Oahu as a prime candidate for the Surf n Shake venture. Considering the investment required to make this a reality and what is at stake, I would recommend further research before making a final decision.  I would recommend adding percipitation in a similar breakdown for June and December. I would also recommend adding additional stations in our data and research for a wider range of data. It would also be a good idea to compare several years of this data to ensure the trend holds true through-out.
